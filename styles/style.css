@@ -235,10 +235,13 @@
     gap: 20px;
     width: 100%;
 }
+.heading-title{
+    margin: 20px 0;
+}
 
 .banner-section {
     flex-direction: column-reverse;
-    margin: 10px;
+    margin: 30px;
     text-align: center;
 }
 
